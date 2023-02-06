@@ -128,10 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-*.bash_logout
-*.bashrc
-*.conda/
-*.jupyter-server-log.txt
-*.jupyter/
-*.local/
-*.profile
+.bash_logout
+.bashrc
+.cache/
+.conda/
+.jupyter-server-log.txt
+.jupyter/
+.local/
+.profile
